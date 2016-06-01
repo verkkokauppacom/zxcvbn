@@ -2,12 +2,12 @@
   "name": "zxcvbn",
   "version": "4.3.0",
   "description": "realistic password strength estimation",
-  "author": "Dan Wheeler",
+  "author": "Dan Wheeler, Toni Suokas",
   "license": "MIT",
   "main": "lib/main.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dropbox/zxcvbn.git"
+    "url": "git://github.com/verkkokauppacom/zxcvbn.git"
   },
   "scripts": {
     "test": "coffeetape test/*.coffee | faucet",
